@@ -1,0 +1,45 @@
+{
+ "0":{
+  "texture" : "",
+  "quantity":0,
+  "number":0,
+  "name":"",
+
+	 },
+
+ "1":{
+  "texture" : "Egg_item.png",
+  "quantity":1,
+  "number":1,
+  "name":"ou",
+
+	 },
+	
+"2":{
+	"texture":"axe.png",
+	"quantity":1,
+	"number":2,
+	"name":"topor",
+	},
+	
+"3":{
+	"texture":"grau.png",
+	"quantity":1,
+	"number":3,
+	"name":"seminte grau",
+	},
+	
+"4":{
+	"texture":"berry.png",
+	"quantity":1,
+	"number":4,
+	"name":"seminte grau",
+	},
+	
+"5":{
+	"texture":"hoe.png",
+	"quantity":1,
+	"number":5,
+	"name":"hoe",
+	}
+}
