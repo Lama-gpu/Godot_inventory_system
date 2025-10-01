@@ -1,0 +1,28 @@
+-------------------------------------------------------
+LICENSE
+-------------------------------------------------------
+Usage Rights
+You are allowed to use this project and its contents for both commercial and non-commercial purposes in your own work and projects.
+
+
+------------------------------------------------------
+Restrictions
+------------------------------------------------------
+
+You may not sell this project or any unmodified copies of it.
+
+You may not redistribute or re-upload this project online, whether for free or for profit.
+
+You may not claim authorship of this project.
+
+
+-----------------------------------------------------
+Attribution
+-----------------------------------------------------
+Credit to the original author is optional. You may give credit if you wish, but it is not required.
+
+
+----------------------------------------------------
+Disclaimer
+----------------------------------------------------
+This software is provided "AS IS", without warranty of any kind. The author shall not be liable for any damages arising from the use of this project.

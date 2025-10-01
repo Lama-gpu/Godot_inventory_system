@@ -1,0 +1,52 @@
+{
+ "0":{
+  "texture" : "",
+  "quantity":0,
+  "number":0,
+  "name":"",
+
+	 },
+
+ "1":{
+  "texture" : "circle.png",
+  "quantity":1,
+  "number":1,
+  "name":"circle",
+
+	 },
+	
+"2":{
+	"texture":"square.png",
+	"quantity":1,
+	"number":2,
+	"name":"square",
+	},
+	
+"3":{
+	"texture":"triangle.png",
+	"quantity":1,
+	"number":3,
+	"name":"triangle",
+	},
+	
+"4":{
+	"texture":"direction.png",
+	"quantity":1,
+	"number":4,
+	"name":"direction",
+	},
+	
+"5":{
+	"texture":"figure.png",
+	"quantity":1,
+	"number":5,
+	"name":"figure",
+	},
+	
+"6":{
+	"texture":"corner.png",
+	"quantity":1,
+	"number":6,
+	"name":"corner",
+	}
+}
